@@ -1,0 +1,17 @@
+alexiv.vscode-angular2-files
+Angular.ng-template
+christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer
+eg2.vscode-npm-script
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+infinity1207.angular2-switcher
+jchannon.csharpextensions
+jmrog.vscode-nuget-package-manager
+johnpapa.Angular2
+michelemelluso.gitignore
+ms-vscode.csharp
+ms-vscode.vscode-typescript-tslint-plugin
+msjsdiag.debugger-for-chrome
+PKief.material-icon-theme
+vscode-icons-team.vscode-icons
